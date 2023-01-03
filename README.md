@@ -6,7 +6,6 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 17/0011020  |  Gabrielle Ribeiro Gomes |
 | 20/2016462  |  Heitor Marques S. Barbosa |
 
 ## Sobre  
