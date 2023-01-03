@@ -20,9 +20,9 @@ Cada questão está em uma pasta, onde se encontra um README com a descrição d
 
 ## Screenshots
 
- - Execução da questão [1100 - Knight Moves](<img width="1280" alt="Screen Shot 2023-01-02 at 22 32 13" src="https://user-images.githubusercontent.com/63034102/210289982-00c8a85a-fbed-47ef-842d-0050a9da173b.png">) em Python. <br>
+ - Execução da questão [1100 - Knight Moves]() em Python. <br>
  
- ![image](https://user-images.githubusercontent.com/33001620/203197499-ce9910d7-8cd2-4482-88ed-fbc5e3b55e67.png)
+ ![image](<img width="1280" alt="Screen Shot 2023-01-02 at 22 32 13" src="https://user-images.githubusercontent.com/63034102/210289982-00c8a85a-fbed-47ef-842d-0050a9da173b.png">)
  
  - Execução da questão [1907 - Coloração de Cenários de Jogos](https://github.com/projeto-de-algoritmos/Grafos1_Balloons/tree/master/1907%20-%20Colora%C3%A7%C3%A3o%20de%20Cen%C3%A1rios%20de%20Jogos) em C++. <br>
  
