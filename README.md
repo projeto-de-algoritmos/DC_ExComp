@@ -20,21 +20,17 @@ Cada questão está em uma pasta, onde se encontra um README com a descrição d
 
 ## Screenshots
 
- - Execução da questão [1100 - Knight Moves]() em Python. <br>
+ - Execução da questão [Encrypted Christmas Letter - 3038](https://github.com/projeto-de-algoritmos/DC_ExComp/tree/main/Encrypted%20Christmas%20Letter%20-%203038) em Python. <br>
  
  ![image](<img width="1280" alt="Screen Shot 2023-01-02 at 22 32 13" src="https://user-images.githubusercontent.com/63034102/210289982-00c8a85a-fbed-47ef-842d-0050a9da173b.png">)
  
- - Execução da questão [1907 - Coloração de Cenários de Jogos](https://github.com/projeto-de-algoritmos/Grafos1_Balloons/tree/master/1907%20-%20Colora%C3%A7%C3%A3o%20de%20Cen%C3%A1rios%20de%20Jogos) em C++. <br>
+ - Execução da questão [Median of Two Sorted Arrays](https://github.com/projeto-de-algoritmos/DC_ExComp/tree/main/Median%20of%20Two%20Sorted%20Arrays) em Python. <br>
  
  ![image](https://user-images.githubusercontent.com/33001620/203197953-b282d80a-2a3c-4603-b6ea-326dee1faadb.png)
  
- - Execução da questão [1610 - Dudu faz serviço](https://github.com/projeto-de-algoritmos/Grafos1_Balloons/tree/master/1610%20-%20Dudu%20faz%20servi%C3%A7o) em Python. <br>
+ - Execução da questão [Voice Dialing - 2678](https://github.com/projeto-de-algoritmos/DC_ExComp/tree/main/Voice%20Dialing%20-%202678) em Python. <br>
  
  ![image](https://user-images.githubusercontent.com/33001620/203198671-856b8832-e89c-4a8c-8a18-1bf43e223d90.png)
-
- - Execução da questão [1947 - Cab Driver Route](https://github.com/projeto-de-algoritmos/Grafos1_Balloons/tree/master/1947%20-%20Cab%20Driver%20Route%20(45%25)) em C++. <br>
- 
- ![image](https://user-images.githubusercontent.com/33001620/203199010-db21d802-7ad0-408f-9e46-fb001011da51.png)
 
 
 ## Instalação 
