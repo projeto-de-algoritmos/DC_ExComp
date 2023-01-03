@@ -11,7 +11,7 @@
 
 ## Sobre  
 
-Esse projeto tem como objetivo trazer a resolução de questões de programação competitiva utilizando grafos.
+Esse projeto tem como objetivo trazer a resolução de questões de programação competitiva utilizando dividir e conquistar.
 
 Foram resolvidas 2 questões retiradas do Juíz online [Beecrowd](https://www.beecrowd.com.br/) e uma do [leetcode](https://leetcode.com/problems).
 
