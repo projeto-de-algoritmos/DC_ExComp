@@ -38,7 +38,6 @@ Cada questão está em uma pasta, onde se encontra um README com a descrição d
 ### Pré-requisitos
   - Ter instalado as linguagens:
     - Python 3.8 ou superior.
-    - C++17 ou superior.
     
 ### Comandos Necessários
 
