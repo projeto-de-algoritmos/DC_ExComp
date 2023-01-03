@@ -26,15 +26,15 @@ Cada questão está em uma pasta, onde se encontra um README com a descrição d
  
  - Execução da questão [Median of Two Sorted Arrays](https://github.com/projeto-de-algoritmos/DC_ExComp/tree/main/Median%20of%20Two%20Sorted%20Arrays) em Python. <br>
  
- ![image](https://user-images.githubusercontent.com/33001620/203197953-b282d80a-2a3c-4603-b6ea-326dee1faadb.png)
+ ![image](https://user-images.githubusercontent.com/63034102/210290266-4487fe9b-8d9a-4cb2-b056-47c7adb7f4cf.png)
  
  - Execução da questão [Voice Dialing - 2678](https://github.com/projeto-de-algoritmos/DC_ExComp/tree/main/Voice%20Dialing%20-%202678) em Python. <br>
  
- ![image](https://user-images.githubusercontent.com/33001620/203198671-856b8832-e89c-4a8c-8a18-1bf43e223d90.png)
+ ![image](https://user-images.githubusercontent.com/63034102/210290339-243f205f-e691-4859-8ca2-c82842ace0f5.png)
 
 
 ## Instalação 
-**Linguagens**: Python e C++<br>
+**Linguagens**: Python<br>
 
 ### Pré-requisitos
   - Ter instalado as linguagens:
@@ -55,17 +55,6 @@ Cada questão está em uma pasta, onde se encontra um README com a descrição d
   python3 nome_do_codigo.py
   ```
   
-  - Para rodar as Questões em C++ use o comando:
-  
-  ```
-  g++ nome_do_codigo.cpp
-  ```
-  
-  - Ele vai gerar um executável que estará dentro da pasta do problema, para executá-lo use `./nome_executavel`. Será algo parecido com:
-
-  ```
-  ./a.exe
-  ```
   
 ### Ambientes Online
 
