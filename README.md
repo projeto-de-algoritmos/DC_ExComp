@@ -22,7 +22,7 @@ Cada questão está em uma pasta, onde se encontra um README com a descrição d
 
  - Execução da questão [Encrypted Christmas Letter - 3038](https://github.com/projeto-de-algoritmos/DC_ExComp/tree/main/Encrypted%20Christmas%20Letter%20-%203038) em Python. <br>
  
- ![image](<img width="1280" alt="Screen Shot 2023-01-02 at 22 32 13" src="https://user-images.githubusercontent.com/63034102/210289982-00c8a85a-fbed-47ef-842d-0050a9da173b.png">)
+ ![image](https://user-images.githubusercontent.com/63034102/210290220-04861302-3bcb-41bd-9c7d-527f64846ce2.png)
  
  - Execução da questão [Median of Two Sorted Arrays](https://github.com/projeto-de-algoritmos/DC_ExComp/tree/main/Median%20of%20Two%20Sorted%20Arrays) em Python. <br>
  
